@@ -10,3 +10,4 @@
   - [Social Characteristics](https://opendata.dc.gov/datasets/DCGIS::acs-5-year-social-characteristics-dc-ward/about)
   - [Housing Characteristics](https://opendata.dc.gov/datasets/DCGIS::acs-5-year-housing-characteristics-dc-ward/about)
   - [Demographic Characteristics](https://opendata.dc.gov/datasets/DCGIS::acs-5-year-demographic-characteristics-dc-ward/about)
+- **PurpleAir AQI Data:** [View Map](https://www.purpleair.com/)
