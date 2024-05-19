@@ -6,15 +6,13 @@
 
 ### Table of Contents
 
-- [Datasets](#datasets)
-  - [ACS 5-Year Demographic Characteristics](#acs-5-year-demographic-characteristics)
-  - [ACS 5-Year Economic Characteristics](#acs-5-year-economic-characteristics)
-  - [Air Quality Index (AQI) Data](#air-quality-index-aqi-data)
-  - [Ward Crime Data](#ward-crime-data)
+- [ACS 5-Year Demographic Characteristics](#acs-5-year-demographic-characteristics)
+- [ACS 5-Year Economic Characteristics](#acs-5-year-economic-characteristics)
+- [Air Quality Index (AQI) Data](#air-quality-index-aqi-data)
+- [Ward Crime Data](#ward-crime-data)
 
-### Datasets
 
-#### ACS 5-Year Demographic Characteristics
+### ACS 5-Year Demographic Characteristics
 
 **Filename:** `ACS_5-Year_Demographic_Characteristics_DC_Ward_Remapped.csv`
 
@@ -121,7 +119,7 @@ This dataset contains demographic characteristics from the American Community Su
 - SHAPEAREA
 - SHAPELEN
 
-#### ACS 5-Year Economic Characteristics
+### ACS 5-Year Economic Characteristics
 
 **Filename:** `ACS_5-Year_Economic_Characteristics_DC_Ward_Remapped.csv`
 
@@ -275,7 +273,7 @@ This dataset contains economic characteristics from the American Community Surve
 - SHAPEAREA
 - SHAPELEN
 
-#### Air Quality Index (AQI) Data
+### Air Quality Index (AQI) Data
 
 **Filename:** `aqi_data.csv`
 
@@ -292,7 +290,7 @@ This dataset contains the Air Quality Index (AQI) readings for different wards i
 - Ward 7 AQI
 - Ward 8 AQI
 
-#### Ward Crime Data
+### Ward Crime Data
 
 **Filename:** `ward_crime_data.csv`
 
@@ -309,7 +307,7 @@ This dataset contains the annual crime statistics for different wards in Washing
 - Ward 7
 - Ward 8
 
-#### Data Sources
+### Data Sources
 - **DC Ward Maps:** [View Dataset](https://opendata.dc.gov/datasets/DCGIS::wards-from-2022/explore)
 - **DC Crime Statistics:** [View Dataset](https://www.crimedatadc.com/ward)
 - **DC American Community Survey (ACS):**
